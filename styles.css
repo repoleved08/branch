@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#btn{
+    border: none;
+    color: #241f1f;
+    background: rgb(123, 231, 123);
+    border-radius: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    cursor: pointer;
+    height: 40px;
+}
