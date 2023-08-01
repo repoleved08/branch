@@ -2,10 +2,11 @@
 
 
 <h3>Build Using: </h3>
--> <p>HTML5</p>
--> <p>JavaScript</p>
--> <p>CSS3</p>
+<p>HTML5</p>
+<p>JavaScript</p>
+<p>CSS3</p>
 
 TODO
--Style the page using bulma
--Advance the responsiveness
+<p>-Style the page using bulma</p>
+
+<p>-Advance the responsiveness</p>
